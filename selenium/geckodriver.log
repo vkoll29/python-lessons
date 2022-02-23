@@ -38,8 +38,9 @@ DevTools listening on ws://localhost:64165/devtools/browser/3e99de38-c38a-462e-9
 1645591371404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
 JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
-1645591633299	geckodriver	INFO	Listening on 127.0.0.1:64340
-1645591636405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64341" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofilebXnSze"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645591725374	Marionette	INFO	Stopped listening on port 64170
+e-debugging-port" "64341" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofilebXnSze"
 1645591636796	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofilebXnSze\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:64341/devtools/browser/c66d7b2e-0aa2-4e10-b8dd-b2570c2ff650
