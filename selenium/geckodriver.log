@@ -1,0 +1,64 @@
+1645590632489	geckodriver	INFO	Listening on 127.0.0.1:63916
+1645590635560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63917" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofileI8aU8S"
+*** You are running in headless mode.
+1645590636122	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofileI8aU8S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63917/devtools/browser/9fa9152a-79d2-4c41-b7e6-6d9418d65d45
+1645590638394	Marionette	INFO	Listening on port 63922
+1645590638766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63980
+1645590697616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63981" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofile054mnW"
+*** You are running in headless mode.
+1645590697972	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofile054mnW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63981/devtools/browser/d6514796-4c98-4549-bd14-c22e91bdcf59
+1645590699663	Marionette	INFO	Listening on port 63988
+1645590699787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64085
+1645591216128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64086" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofileTSSIvY"
+1645591216566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofileTSSIvY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64086/devtools/browser/ca547fab-3a43-4c98-8084-f76b3a0cd167
+1645591219028	Marionette	INFO	Listening on port 64091
+1645591219308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1645591361926	Marionette	INFO	Stopped listening on port 64091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645591365086	geckodriver	INFO	Listening on 127.0.0.1:64164
+1645591368200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64165" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofileylWn69"
+1645591368589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofileylWn69\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64165/devtools/browser/3e99de38-c38a-462e-9600-40945c5e708b
+1645591370968	Marionette	INFO	Listening on port 64170
+1645591371404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1645591633299	geckodriver	INFO	Listening on 127.0.0.1:64340
+1645591636405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64341" "-no-remote" "-profile" "C:\\Users\\GEORGE~1\\AppData\\Local\\Temp\\rust_mozprofilebXnSze"
+1645591636796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GeorgeOwino\\AppData\\Local\\Temp\\rust_mozprofilebXnSze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64341/devtools/browser/c66d7b2e-0aa2-4e10-b8dd-b2570c2ff650
+1645591639333	Marionette	INFO	Listening on port 64346
+1645591639599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1645591642994	Marionette	INFO	Stopped listening on port 64346
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\GeorgeOwino\AppData\Local\Temp\rust_mozprofilebXnSze\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
