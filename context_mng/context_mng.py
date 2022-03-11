@@ -79,9 +79,15 @@ class GetCurrentRegions:
 
     def __exit__(self, exc_type, exc_value, exc_tb):
         print("Leaving the context")
+        # should close connection here
         if isinstance(exc_value, ConfigurationError):
             print(exc_type, exc_value, exc_tb, sep="\n")
             return True
+        else:
+            # this else part was not tested. it is supposed to close connection to db
+            client.close()
+
+
 
 
 with GetCurrentRegions() as regions:
